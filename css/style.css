@@ -12,6 +12,13 @@ body{
 }
 
 
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
 h1{
     color: silver;
     font-family: Poppins,serif;
